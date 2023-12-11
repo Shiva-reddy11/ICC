@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+<img src="./icc1.jpg" height="65">
+
+        <center><h1>ICC</center></h1></head>
+    <body>
+   <table border="1">
+    
+    <tr>
+   <th colspan="5">BCCI</th>
+   </tr>
+
+   <tr><th>Series</th>
+       <th>From</th>
+       <th>To</th>
+       <th>Match</th>
+       <th>Venue</th>
+</tr>
+
+
+   <tr><TD rowspan="4">IND vs NZ</TD>
+    <td >Wed</td>
+    <td>17-NOV-23</td>
+    <TD>18-NOV-23</TD>
+    <td>Jaipur</td>
+
+</tr>
+<tr>
+    
+    <td>Fri</td>
+    <td>19-NOV-23</td>
+    <td>20-NOV-23</td>
+    <td>Ranchi</td>
+
+</tr>
+<tr>
+    <td>Sun</td>
+<td>21-NOV-23</td>
+<td>22-NOV-23</td>
+<td>Kolkata</td>
+
+</tr>
+
+</table>
+
+
+<ul> 
+    <details>
+        <summary>Indian Players</summary>
+        <img src="./india.jpg" hight="826" width="700">
+    </details> 
+
+
+    <li>ROHIT SHARMA</li>
+    <li>ROHIT</li>
+    <li>YASHASVI</li>
+    <li>SHUBMAN</li>
+    <li>KOHLI</li>
+    <li>AJINKYA RAHANE</li>
+    <li>RAVINDRA JADEJA</li>
+    <li>KS BHARAT</li>
+    <li>RAVI C. ASHWIN</li>
+</ul>
+
+<ul>
+    <details><summary>New Zealand</summary>
+
+    <img  src="./NZ.jpg">
+
+</details>
+
+
+    <li>KANE WILLIAMSON</li>
+    <li>TRENT BOULT</li>
+    <li>MARK CHAPMAN</li>
+    <li>LOCKIE FERGUSON</li>
+    <li>MATT HENRY</li>
+    <li>TOM LATHAM</li>
+    <li>DARYL MITCHELL</li>
+    <li>GLENN PHILLIPS</li>
+    <li>RACHIN RAVINDRA</li>
+    <li>ISH SODHI</li>
+</ul>
+
+<dl> <h3>Indian Team</h3>
+    <dt>The India men's national cricket team represent India in men's international cricket. It is governed by the Board of Control for Cricket in India (BCCI), and is a Full Member of the International Cricket Council (ICC) with Test, One Day International (ODI) and Twenty20 International (T20I) status.
+
+    </dt>
+    <dl>
+        <h3>New Zealand Team</h3>
+        
+        <dd>The New Zealand national cricket team represents New Zealand in men's international cricket. Nicknamed the Black Caps they played their first Test in 1930 against England in Christchurch, becoming the fifth country to play Test cricket.</dd>
+    
+    </dl>
+</dl>
+   </body>
+</html>
